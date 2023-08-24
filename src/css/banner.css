@@ -1,0 +1,70 @@
+/* .carousel-indicators button {
+  width: 0.7rem !important;
+  height: 0.7rem !important;
+  border-radius: 50% !important;
+}
+
+.carousel-indicators button:not(:first-child) {
+  margin-left: 0.5rem;
+}
+
+.carousel-indicators .active {
+  background-color: #ff7a54;
+} */
+
+
+
+/* 
+#slider {
+	position: relative; }
+  #slider .item img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  .slider-caption {
+    position: absolute;
+    bottom: 30%;
+   
+  }
+  .slider-title {
+    color: #363636;
+    font-size:30px;
+    line-height: 52px;
+   margin-bottom: 10px !important;
+  }
+  .slider-description {
+    color: #5d5d5d;
+    margin-bottom: 30px;
+    font-weight: 400;
+    font-size: 18px;
+  } */
+
+
+
+  #slider .owl-theme .owl-controls {
+    margin-bottom: -12px;
+  ;
+  }
+  #slider .owl-prev {
+    position: absolute;
+    left: 30px;
+    top: 40%;
+    color: brown;
+    font-size:50px ;
+  }
+  #slider .owl-next {
+    position: absolute;
+    right: 30px;
+    top: 40%;
+    color: blue;
+    font-size:50px ;
+    
+    
+  }
+  #slider .owl-pagination {
+    position: absolute;
+    bottom: 20px;
+    margin: 0 auto;
+    width: 100%;
+  }

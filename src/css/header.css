@@ -1,0 +1,66 @@
+.header-section{
+
+height:90px;
+
+
+
+}
+.wrap-info-header {
+	padding:10px 0px 22px;
+    margin-top: 10px;
+}
+.wrap-info-header .educare-info-section {
+	float: right;
+	margin: 0 0 0 48px;
+}
+.educare-info-section .info-icon {
+	float: left;
+	width: 40px !important;
+	height: 40px !important;
+	line-height: 40px;
+	text-align: center;
+	margin: 3px 1px 0px 0px;
+    border-radius:50%;
+    background-color: aquamarine;
+	
+	
+}
+.educare-info-section .info-icon i {
+	-webkit-transform: rotate(-45deg);
+	-moz-transform: rotate(-45deg);
+	-ms-transform: rotate(-45deg);
+	-o-transform: rotate(-45deg);
+	transform: rotate(-45deg);
+}
+.educare-info-section .info-text {
+	overflow: hidden;
+}
+.educare-info-section .info-text h6 {
+	margin-bottom: 0;
+    font-size:12px !important;
+}
+.educare-info-section .info-text p {
+	font-size: 14px;
+}
+
+
+a{
+
+font-size: 14px !important;
+
+
+}
+
+
+
+@media screen and (max-width:992px) {
+
+
+.wrap-info-header{
+    display: none !important;
+}
+
+
+
+
+}
